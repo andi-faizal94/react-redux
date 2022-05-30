@@ -1,10 +1,10 @@
 {
   "files": {
-    "main.css": "/andi-faizal94.github.io//react-redux.io/static/css/main.22ad84d2.css",
-    "main.js": "/andi-faizal94.github.io//react-redux.io/static/js/main.6c1785ca.js",
-    "index.html": "/andi-faizal94.github.io//react-redux.io/index.html",
-    "main.22ad84d2.css.map": "/andi-faizal94.github.io//react-redux.io/static/css/main.22ad84d2.css.map",
-    "main.6c1785ca.js.map": "/andi-faizal94.github.io//react-redux.io/static/js/main.6c1785ca.js.map"
+    "main.css": "//react-redux.io/static/css/main.22ad84d2.css",
+    "main.js": "//react-redux.io/static/js/main.6c1785ca.js",
+    "index.html": "//react-redux.io/index.html",
+    "main.22ad84d2.css.map": "//react-redux.io/static/css/main.22ad84d2.css.map",
+    "main.6c1785ca.js.map": "//react-redux.io/static/js/main.6c1785ca.js.map"
   },
   "entrypoints": [
     "static/css/main.22ad84d2.css",
